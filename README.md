@@ -1,11 +1,16 @@
 This project is a robust test automation framework designed for both UI and API testing using industry-standard tools and best practices. 
 It leverages Selenium WebDriver for UI automation and Rest Assured for API testing, ensuring a seamless and scalable approach to test execution.
 
-Key Features
+**Key Features**
+
 ✔️ UI Automation: Built using Selenium WebDriver with the Page Object Model (POM) for maintainability.
+
 🔹 API Testing: Implements Rest Assured to validate RESTful APIs efficiently.
+
 📌 BDD Approach: Uses Cucumber and Gherkin for behavior-driven development (BDD).
+
 ⚡ Test Execution: Powered by JUnit, providing structured test execution and reporting.
+
 🔄 Reusable Components: Modular test design for enhanced scalability and reusability.
 
 Tech Stack
@@ -42,7 +47,8 @@ Importing Projects from Git with Smart Import
 2. In the Import window, select Projects from Git (with smart import) and click Next.
 3. In the Select Repository Source window, choose one of the following:
     * Existing local repository (if the repository is already cloned locally)
-    * Clone URI (if you want to clone the project from a remote Git repository)
+    * Clone URI  https://github.com/kanhaiyamotarwar/Demo_API_UI_Automation_Brit/tree/master
+      
 4. Follow the wizard steps and click Finish.
 5. Eclipse will analyze the project folder and automatically import it into the Project Explorer.
 
